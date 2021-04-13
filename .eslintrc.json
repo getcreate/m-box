@@ -1,0 +1,15 @@
+{
+  "overrides": [
+    {
+      "files": [
+        "./source/scripts/**/*.js"
+      ],
+      "extends": [
+        "standard"
+      ]
+    }
+  ],
+  "env": {
+    "es6": true
+  }
+}
